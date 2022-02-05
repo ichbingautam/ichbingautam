@@ -9,7 +9,7 @@
 - 🏃 I love problem solving. My mission is to learn and grow! I'll love to contribute to the open-source community.
 </p>
  
- **Languages and Framework:**
+ **Languages and Frameworks:**
  
 
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
