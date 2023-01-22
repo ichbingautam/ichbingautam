@@ -11,7 +11,7 @@
  
  **Languages and Frameworks:**
  
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,express,nodejs,go,python,fastapi,mongodb,postgresql,redis,docker,tensorflow" alt="Languages and Frameworks"> <br> 
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,express,nodejs,go,python,fastapi,mongodb,postgresql,redis,nginx,docker,tensorflow" alt="Languages and Frameworks"> <br> 
 
 <h2>🤟 My GitHub Stats... </h2>
 
