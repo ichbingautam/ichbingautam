@@ -3,15 +3,15 @@
 <h2> I'm Shubham Gautam! </h2>
 
 <p>
-- 👨‍💻 I'm a Software Engineer and Machine Learning Enthusiast.
+- 👨‍💻 I'm a Senior Engineer and Machine Learning Enthusiast.
 </p>
 <p>
-- 🏃 I love problem solving. My mission is to learn and grow! I'll love to contribute to the open-source community.
+- 🏃 I love problem-solving. My mind model keeps learning! I'm passionate to contribute to the open-source community.
 </p>
  
  **Languages and Frameworks:**
  
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,express,nodejs,go,python,fastapi,mongodb,postgresql,redis,nginx,docker,tensorflow" alt="Languages and Frameworks"> <br> 
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,express,nodejs,go,python,fastapi,mongodb,postgresql,redis,nginx,docker,ai,tensorflow" alt="Languages and Frameworks"> <br> 
 
 <h2>🤟 My GitHub Stats... </h2>
 
