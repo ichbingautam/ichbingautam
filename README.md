@@ -15,7 +15,7 @@
 
 <h2>🤟 My Leetcode Stats... </h2>
 
- ![](https://leetcard.jacoblin.cool/gautamshubham?ext=heatmap)        ![Leetcode Stats](https://leetcard.jacoblin.cool/gautamshubham?ext=activity)
+ ![](https://leetcard.jacoblin.cool/gautamshubham?ext=heatmap)        
 
 <be> 
 <h2>🤟 My GitHub Stats... </h2>
