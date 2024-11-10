@@ -6,13 +6,18 @@
 - 👨‍💻 I'm a Senior Engineer and Machine Learning Enthusiast.
 </p>
 <p>
-- 🏃 I love problem-solving. My mind model keeps learning! I'm passionate to contribute to the open-source community.
+- 🏃 I love problem-solving. My mind model keeps learning! I'm passionate about contributing to the open-source community.
 </p>
  
  **Languages and Frameworks:**
  
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,express,nodejs,python,django,fastapi,go,rust,graphql,mongodb,postgresql,redis,kafka,rabbitmq,nginx,docker,kubernetes,aws,tensorflow" alt="Languages and Frameworks"> <br> 
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,express,nodejs,python,django,fastapi,go,rust,graphql,mongodb,postgresql,redis,kafka,rabbitmq,nginx,docker,kubernetes,aws,tensorflow" alt="Languages and Frameworks"> <be> 
 
+<h2>🤟 My Leetcode Stats... </h2>
+
+ ![](https://leetcard.jacoblin.cool/gautamshubham?ext=heatmap)        ![Leetcode Stats](https://leetcard.jacoblin.cool/gautamshubham?ext=activity)
+
+<be> 
 <h2>🤟 My GitHub Stats... </h2>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ichbingautam&show_icons=true&theme=radical" alt="gautamshubham" /></p>
