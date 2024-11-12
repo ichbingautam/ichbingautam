@@ -13,7 +13,7 @@
  
 <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,express,nodejs,python,django,fastapi,go,rust,graphql,mongodb,postgresql,redis,kafka,rabbitmq,nginx,docker,kubernetes,aws,tensorflow" alt="Languages and Frameworks"> <be> 
 
-<h2>🤟 My Leetcode Stats... </h2>
+<h2>🤟 My Leetcode Progress... </h2>
 
  ![](https://leetcard.jacoblin.cool/gautamshubham?ext=heatmap)        
 
