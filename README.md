@@ -1,13 +1,18 @@
+<h1> Hi there 👋, I'm Shubham Gautam!</h1>
 
-<h1> Hi there 👋 </h1>
-<h2> I'm Shubham Gautam! </h2>
+**Senior Engineer & Quantum Computing Explorer**
 
-<p>
-- 👨‍💻 I'm a Senior Engineer and Machine Learning Enthusiast.
-</p>
-<p>
-- 🏃 I love problem-solving. My mind model keeps learning! I'm passionate about contributing to the open-source community.
-</p>
+I'm a passionate problem solver with a growth mindset, constantly honing my software engineering and machine learning skills. I thrive on tackling challenges and collaborating with open-source communities to contribute innovative solutions. 
+
+**Here's what I'm about:**
+
+* ‍ Building robust and efficient software systems.
+*  Exploring the exciting world of machine learning.
+*  Contributing to and learning from the open-source community.
+
+** Would you like to connect?**
+
+Let's discuss code, machine learning, or anything that sparks your curiosity! Feel free to browse my repositories or reach out to me directly.
  
  **Languages and Frameworks:**
  
