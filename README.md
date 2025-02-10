@@ -28,5 +28,3 @@ Let's discuss code, machine learning, or anything that sparks your curiosity! Fe
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ichbingautam&show_icons=true&theme=radical&include_all_commits=true" alt="gautamshubham" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ichbingautam&show_icons=true&theme=tokyonight_duo" alt="gautamshubham" /></p>
-
-
