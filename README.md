@@ -6,9 +6,9 @@ I'm a passionate problem solver with a growth mindset, constantly honing my soft
 
 **Here's what I'm about:**
 
-* ‍ Building robust and efficient software systems.
-*  Exploring the exciting world of machine learning.
-*  Contributing to and learning from the open-source community.
+* Building robust and efficient software systems.
+* Exploring the exciting world of machine learning.
+* Contributing to and learning from the open-source community.
 
 ** Would you like to connect?**
 
