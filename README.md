@@ -16,7 +16,7 @@ Let's discuss code, machine learning, or anything that sparks your curiosity! Fe
  
  **Languages and Frameworks:**
  
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,express,nodejs,python,django,fastapi,go,rust,graphql,mongodb,postgresql,redis,kafka,rabbitmq,nginx,docker,kubernetes,aws,tensorflow" alt="Languages and Frameworks"> <be> 
+<img src="https://skillicons.dev/icons?i=go,python,rails,django,postgresql,mongodb,redis,elasticsearch,kafka,rabbitmq,git,nginx,docker,kubernetes,linux,grafana,prometheus,jenkins,terraform,aws,gcp,tensorflow" alt="Languages and Frameworks"> <be> 
 
 <h2>🤟 My Leetcode Progress... </h2>
 
