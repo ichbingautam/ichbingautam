@@ -10,7 +10,7 @@ I'm a passionate problem solver with a growth mindset, constantly honing my soft
 * Exploring the exciting world of machine learning.
 * Contributing to and learning from the open-source community.
 
-** Would you like to connect?**
+**Would you like to connect?**
 
 Let's discuss code, machine learning, or anything that sparks your curiosity! Feel free to browse my repositories or reach out to me directly.
  
