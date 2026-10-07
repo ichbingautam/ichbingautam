@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Shubham Gautam
+# Shubham Gautam
 ### *AI Researcher • Systems Architect • Quantum Information Theorist*
 
 ```gdb
@@ -105,7 +105,6 @@ $$\mathcal{L}_{\text{AI}} = \mathbb{E}_{\mathbf{x} \sim p_{\text{data}}} \left[ 
 
 - 🌐 **Portfolio / GitHub**: [github.com/ichbingautam](https://github.com/ichbingautam)
 - 💼 **LinkedIn**: [Shubham Gautam](https://www.linkedin.com/in/maratonisto/)
-- 📧 **Research Inquiries**: `gautamshubham658@gmail.com`
 
 <div align="center">
   <sub><i>"The most incomprehensible thing about the universe is that it is comprehensible." — Albert Einstein</i></sub>
